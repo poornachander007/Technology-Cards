@@ -1,0 +1,38 @@
+.card-1 {
+  display: flex;
+  flex-direction: column;
+  border-top: 5px solid #ff4f64;
+  padding: 20px;
+}
+
+.card-2 {
+  display: flex;
+  flex-direction: column;
+  border-top: 5px solid #00a8e7;
+  padding: 20px;
+}
+
+.card-3 {
+  display: flex;
+  flex-direction: column;
+  border-top: 5px solid #44c4a1;
+  padding: 20px;
+}
+
+.card-4 {
+  display: flex;
+  flex-direction: column;
+  border-top: 5px solid #fcc200;
+  padding: 20px;
+}
+
+/* Write CSS code here. */
+img {
+  width: 100px;
+  align-self: flex-end;
+}
+
+li {
+  width: 400px;
+  border-radius: 15px;
+}
